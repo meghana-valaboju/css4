@@ -1,0 +1,36 @@
+
+*{
+    margin:0 ;
+    padding:0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+
+.container{
+    margin:100px;
+    /* border:10px; */
+    width:100%;
+    position: relative;
+
+}
+.ac4,.ac1,.ac2,.ac3{
+    /* border:10px; */
+    width:300px;
+    height: 300px;
+   display: inline-block;
+   position: relative;
+}
+img{
+    width:100%;
+   
+}
+P{
+    background-color:black;
+    color: white;
+    position: absolute;
+  padding: 7px;
+  top:0;
+} 
+
